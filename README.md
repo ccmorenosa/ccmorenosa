@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋 I'm Catalina Sarria (She/Her)
+
+Welcome to my principal account. My name is Catalina Sarria, I am a last year physics student and a half time developer.
 
 <!--
 **ccmorenosa/ccmorenosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
