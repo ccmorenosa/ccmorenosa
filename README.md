@@ -74,7 +74,7 @@ Streak](https://github-readme-streak-stats.herokuapp.com?user=ccmorenosa&&stroke
 
 
 [![GitHub Commits
-Graph](https://activity-graph.herokuapp.com/graph?username=ccmorenosa&bg_color=1c1917&color=ffffff&line=F5A9B8&point=5BCEFA&area_color=F5A9B8&area=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ccmorenosa)
+Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ccmorenosa&bg_color=1c1917&color=ffffff&line=F5A9B8&point=5BCEFA&area_color=F5A9B8&area=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ccmorenosa)
 
 <!--
 **ccmorenosa/ccmorenosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
